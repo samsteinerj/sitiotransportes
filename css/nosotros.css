@@ -1,0 +1,52 @@
+/* inicio pagina nosotros*/
+.historia p{
+	font-size: 0.8m;
+
+}
+.persona{
+	width: 18%;
+	float: left;
+	margin-left: 2.15%;
+	border: 1px solid #ddd;
+	border-radius: 0.25em;
+
+}
+.persona figure{
+	margin: 0.8em 0 1em;
+	text-align: center;
+}
+.persona figure img{
+	border-radius: 50%;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.persona h5, .persona h6{
+	text-align: center;
+	font-weight: normal;
+	color: #2e64a1;
+	margin: 0;
+}
+
+.persona h5{
+	font-size: 0.9em;
+	font-weight: bold;
+}
+
+.persona h6{
+	font-size: 0.8em;
+	margin-bottom: 1em;
+	font-style: italic;
+}
+
+.personas p{
+	font-size: 0.7em;
+	margin:1em 1em 1em;
+	color: #444;
+}
+.persona:first-child{
+margin-left: 0;
+}
+.persona:last-child{
+	margin-right: 0;
+}
+/*fin pagina nosotros*/
